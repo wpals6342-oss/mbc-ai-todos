@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Todo Pro",
+  "description": "A high-performance Todo application integrated with Supabase for data persistence and Gemini AI for task optimization.",
+  "requestFramePermissions": []
+}
